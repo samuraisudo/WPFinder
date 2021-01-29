@@ -9,7 +9,7 @@
 $ git clone https://github.com/samuraisudo/WPFinder.git<br>
 $ cd WPFinder<br>
 $ python3 main.py<br>
-или
+или<br>
 $ chmod +x start<br>
 $ ./start</li>
 
