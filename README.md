@@ -8,7 +8,10 @@
 <li>$ python3 -m pip install requests<br>
 $ git clone https://github.com/samuraisudo/WPFinder.git<br>
 $ cd WPFinder<br>
-$ python3 main.py<br></li>
+$ python3 main.py<br>
+или
+$ chmod +x start<br>
+$ ./start</li>
 
 # Использовать
 При запуске инструмент вам покажет какие порты будет проверять.<br>
